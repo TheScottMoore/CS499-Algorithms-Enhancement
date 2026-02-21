@@ -19,4 +19,7 @@ Binary Search after vector sort:
 <img width="789" height="380" alt="56e58eb7-1097-4c2c-a78a-2200bbb74518" src="https://github.com/user-attachments/assets/38bad039-4d95-4513-8fd2-1f0f99b8903b" />
 <img width="780" height="115" alt="686d016a-4c62-4666-ae01-3763089d4894" src="https://github.com/user-attachments/assets/fdb142eb-4d40-4138-9ddc-0011c2ecbb80" />
 
+Demo of Algorithm Functionality:
+
+<img width="481" height="229" alt="a7e35d79-a292-478e-951d-fc423044311c" src="https://github.com/user-attachments/assets/aa092f80-e8d4-4625-9a55-0b2ffb8b077d" />
 
